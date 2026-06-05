@@ -17,6 +17,8 @@ This project analyzes a synthetic personal finance dataset containing 3,000 mont
 
 The raw dataset was transformed into a Star Schema for analytical querying.
 
+<img width="1536" height="1024" alt="star schema" src="https://github.com/user-attachments/assets/ea284cf9-06b9-4e40-849a-0a9eb6453e26" />
+
 ### Fact Table
 - fact_finance
 
